@@ -1,8 +1,7 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
 
-// https://vite.dev/config/
 export default defineConfig({
+  base: '/AustinHarrisonnn.github.io-cap/',  
   plugins: [react()],
-  base: 'AustinHarrisonnn.github.io-cap',
-})
+});

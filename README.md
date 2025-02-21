@@ -13,8 +13,6 @@ The following **additional** features are implemented:
 * [x] By using flexbox properties I added and styles a webkit scrollbar to navigate the gallery images instead of them as a whole taking up more space on the page
 
 ## Video Walkthrough
-Forgot to add my name and znumber so I took a screenshot:
-![My Image](https://github.com/FAU-FullStack-Dev-Spring2025/lab-4-AustinHarrisonnn/blob/main/nameandZ.PNG?raw=true)
 
 Required Features/General Walkthrough:
 ![ALT TEXT](https://github.com/FAU-FullStack-Dev-Spring2025/lab-4-AustinHarrisonnn/blob/main/proj4overview.gif?raw=true)
@@ -31,7 +29,7 @@ GIF created with LICEcap
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Austin Harrison]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
